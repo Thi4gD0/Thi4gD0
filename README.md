@@ -17,10 +17,9 @@ Sou estudante de Engenharia de Computação com interesse em desenvolvimento bac
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 **Aprendendo agora:**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 **Próximos passos:**
 
