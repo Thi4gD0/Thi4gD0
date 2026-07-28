@@ -35,12 +35,6 @@ Sou estudante de Engenharia de Computação com interesse em desenvolvimento bac
 
 ---
 
-## Projetos
-
-> 🚧 Em construção — em breve adicionarei projetos desenvolvidos durante a graduação e estudos pessoais.
-
----
-
 ## Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-Thi4gD0-181717?style=flat&logo=github)](https://github.com/Thi4gD0)
