@@ -13,15 +13,15 @@ Sou estudante de Engenharia de Computação com interesse em desenvolvimento bac
 
 ## Tecnologias
 
-**Domino:**
+**Uso em projetos:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
-**Aprendendo agora:**
+**Estudando na graduação:**
 
-**Próximos passos:**
+**Aprendendo agora:**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
