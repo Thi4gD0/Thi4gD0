@@ -1,6 +1,3 @@
-# Olá, eu sou o Thiago 👋
-
-**Estudante de Engenharia de Computação na PUC-Rio**  
 📍 Rio de Janeiro, Brasil
 
 ---
