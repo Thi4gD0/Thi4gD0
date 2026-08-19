@@ -39,5 +39,4 @@ Sou estudante de Engenharia de Computação com interesse em desenvolvimento bac
 
 ## Contato
 
-[![GitHub](https://img.shields.io/badge/GitHub-Thi4gD0-181717?style=flat&logo=github)](https://github.com/Thi4gD0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago%20Duarte-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-duarte-962666242)
