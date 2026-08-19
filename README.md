@@ -2,12 +2,6 @@
 
 ---
 
-## Sobre mim
-
-Sou estudante de Engenharia de Computação com interesse em desenvolvimento backend, mercado financeiro e tecnologia. Busco construir uma base técnica sólida combinando lógica de programação, estruturas de dados e aplicações práticas voltadas ao mundo financeiro.
-
----
-
 ## Tecnologias
 
 **Uso em projetos:**
